@@ -12,3 +12,5 @@ git push -u origin main
 git remote add origin https://github.com/Ermikhina/Lesson_3_3.git
 git branch -M main
 git push -u origin main
+
+Направить изменения в удалённый репозиторий можно командой ***```git push```***
